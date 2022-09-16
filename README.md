@@ -1,4 +1,4 @@
-# on-premises-postgresql-agent
+# Devaten On-Premises PostgreSQL Agent
 
 
 ## How to Install 

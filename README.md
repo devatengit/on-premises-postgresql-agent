@@ -8,7 +8,7 @@ To run the On-Premise PostgreSQL Agent Docker Compose File locally, you must hav
 1. Firstly Clone the Docker Compose file from Github using -
 
 ```
-https://github.com/devatengit/on-premises-mysql-agent.git
+https://github.com/devatengit/on-premises-postgresql-agent.git
 ``` 
 ## Note:
 
